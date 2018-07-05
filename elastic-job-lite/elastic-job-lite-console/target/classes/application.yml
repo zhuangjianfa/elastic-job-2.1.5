@@ -1,5 +1,0 @@
-spring.application.name: dtxd-job-console
-root.username: ${job-console.root.name}
-root.password: ${job-console.root.password}
-guest.username: ${job-console.guest.name}
-guest.password: ${job-console.guest.password}
